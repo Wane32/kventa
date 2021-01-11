@@ -1,0 +1,89 @@
+.menu{
+font-weight:bold;
+color:white;
+background-color:#A0522D;
+border-radius:12px;
+padding: 10px 20px;
+width:153px;
+position:fixed;
+top: 0;
+left:0;
+height: 100%;
+}
+
+.content{
+margin-left:190px;
+
+
+}
+hr{
+border:1.5px solid #A0522D; 
+background-color:#A0522D;
+}
+h2{
+color:#FFA500;
+
+
+}
+.fory img{
+	height:170px;
+	width:270px;
+}
+.Avtor img{
+width: 50%;
+
+
+}
+.Avtor {
+width: 45%;
+display: inline-block;
+vertical-align: top;
+box-shadow:-15px 20px 47px #A0522D;
+margin: 7px 5px;
+padding:11px;
+}
+li{
+list-style-type: none;
+padding: 5px 0px;
+border-bottom: 1px grey solid;
+text-align: center;
+
+
+}
+.Mini {
+background-color: lightgrey;
+
+
+}
+.buy ul{
+width: 40%;
+display: inline-block;
+
+}
+.Mesage{
+background-image:url(mesage.jpg);
+background-color: black;
+height: 130px;
+width: 160px;
+background-size:cover;
+padding: 60px 96px;
+font-size: 20px;
+display: inline-block;
+
+}
+input, textarea{
+margin-bottom: 5px;
+padding: 5px;
+border:solid 2px #A0522D;
+width: 100%;
+
+
+
+}
+.contact img,p{
+display: inline-block;
+
+
+
+
+}
